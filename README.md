@@ -21,7 +21,7 @@ Create a working hangman game using your code from the TDD assignment and the st
 
 **4. Gameriot - Hangman **
 
-Story and Starter Codebase: https://github.com/ericmichael/gameriot_hangman
+Story and Starter Codebase: [GameRiot 0: Story so far + Code](https://github.com/ericmichael/gameriot_hangman)
 
 Assignment 1 Details: [GameRiot 1: Setup](gameriot-1-setup.md)
 
