@@ -2,11 +2,15 @@
 
 #### Story
 
-There was a *now infamous* time at GameRiot (on a larger project) where a developer made huge mistake. Not to name names, but his name was Dave. He was a rockstar researcher from MIT who had written a ton of papers on low-level network optimization algorithms. He once pushed some network code directly to master and basically broke multiplayer for any Duty of War players who got the update. This was before GameRiot had their stuff together. You can imagine how *angry* Mr. Stark was (thats what everyone calls him). Literally, GameRiot's stock dropped overnight and caused Mr. Stark's shares in GameRiot to lose **millions** in value. Duty of War is their flagship game and they make a *killing* in in-app purchases. Hats and weird stuff. Needless to say, that developer did not last long at GameRiot. Anytime something breaks in production at GameRiot now, it's called *pulling a Dave*. No one wants to be caught *pulling a Dave*.
+There was a *now infamous* time at GameRiot (on a larger project) where a developer made huge mistake. Not to name names, but his name was Dave. He was a rockstar researcher from MIT who had written a ton of papers on low-level network optimization algorithms. He once pushed some network code directly to master and basically broke multiplayer for any **Duty of War** players who got the update. This was before GameRiot had their stuff together. You can imagine how *angry* Mr. Stark was (thats what everyone calls him). Literally, GameRiot's stock dropped overnight and caused Mr. Stark's shares in GameRiot to lose **millions** in value. **Duty of War** is their flagship game and they make a *killing* in in-app purchases. Hats and weird stuff. Needless to say, that developer did not last long at GameRiot. Anytime something breaks in production at GameRiot now, it's called *pulling a Dave*. No one wants to be caught *pulling a Dave*.
 
 
 
 Rick was a little careless in his workflow. He thought as long as he wrote tests that he didn't have to use version control, yet. He figured it was a brand new project, that he could wait on that. He didn't realize that at any moment in time, new people can be brought onto a team, or you could leave a team. It is important to use version control so that you have a history of all your changes. But with the right tools and setup, you can be sure that the **master** branch of your code is always working. You can also make sure that all new code you add must be reviewed by someone else before it gets merged to **master**. This helps catch any missing tests, style issues, or other bugs. 
+
+
+
+Your direct supervisor, Edgar Gutierrez has been tasked with making sure you continue working on this project correctly. Setup Github for correctly, protect master, configure for code review, setup CI/CD, and fix the bugs in the project. 
 
 
 
@@ -93,37 +97,20 @@ Feature branches can be pushed to Github, but cannot be merge into master withou
 
 1. Accept the Github Classroom assignment
 
-2. Add `edgareg` as a collaborator so he can perform Code Review
+2. Follow the directions in this video
 
-   1. Go to Settings
-   2. Go to Manage Access
-   3. Add `edgareg` with a role of: Write
-
-3. Configure your Github Repo
-
-   1. Go to Settings
-   2. Go to Branches
-   3. Add a Branch protection Rule
-   4. Branch name pattern: `master`
-   5. Check - Require pull request reviews before merge
-      1. Require approving reviews: 1
-   6. Check - Dismiss stale pull requests approvals when new commits are pushed
-   7. Check - Restrict who can dismiss pull request reviews
-   8. Check - Require status checks to pass before merging
-   9. Check - Include administrators
-
-   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9Vl7o38xpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 **Setting up CodeMagic**
 
-1. Sign up for CodeMagic
-2. Configure CodeMagic to run tests for all branches (but not build)
-3. Configure CodeMagic to build for master
+1. Setup Continuous Integration
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2in1naZ1Kpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+2. Setup Continuous Delivery
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u3x1GN0WJ7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### Step 2: Restore Working Version / Git Flow Practice
 
 **Your Job:**
@@ -142,7 +129,7 @@ Feature branches can be pushed to Github, but cannot be merge into master withou
    git push origin em-restore-working-version
    ```
 
-4. Submit a pull request.
+4. Submit a pull request. 
 
 5. CodeMagic will tell you if you failed any tests. If you pass all the tests, ask Edgar Gutierrez in Discord for a Code Review.
 
@@ -169,7 +156,4 @@ Feature branches can be pushed to Github, but cannot be merge into master withou
    ```
    git pull
    ```
-
-   
-
 
