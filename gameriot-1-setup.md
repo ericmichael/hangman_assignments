@@ -107,7 +107,7 @@ Feature branches can be pushed to Github, but cannot be merge into master withou
 
 1. Setup Continuous Integration
 
-[![Alt text](https://img.youtube.com/vi/2in1naZ1Kpo/0.jpg)](https://www.youtube.com/watch?v=2in1naZ1Kpo)
+[![Alt text](https://img.youtube.com/vi/llsjVbh85Yg/0.jpg)](https://www.youtube.com/watch?v=llsjVbh85Yg)
 
 2. Setup Continuous Delivery
 
