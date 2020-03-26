@@ -99,21 +99,29 @@ Feature branches can be pushed to Github, but cannot be merge into master withou
 
 2. Follow the directions in this video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9Vl7o38xpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![Alt text](https://img.youtube.com/vi/Z9Vl7o38xpQ/0.jpg)](https://www.youtube.com/watch?v=Z9Vl7o38xpQ)
 
 
 **Setting up CodeMagic**
 
 1. Setup Continuous Integration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2in1naZ1Kpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/2in1naZ1Kpo/0.jpg)](https://www.youtube.com/watch?v=2in1naZ1Kpo)
+
 2. Setup Continuous Delivery
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u3x1GN0WJ7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/u3x1GN0WJ7w/0.jpg)](https://www.youtube.com/watch?v=u3x1GN0WJ7w)
+
 #### Step 2: Restore Working Version / Git Flow Practice
 
 **Your Job:**
+
+Video Walkthrough: 
+
+[![Alt text](https://img.youtube.com/vi/u3x1GN0WJ7w/0.jpg)](https://www.youtube.com/watch?v=u3x1GN0WJ7w)
+
+Written steps:
 
 1. Create a branch but **prefix your branch name with your initials**. For me, Eric Martinez I would use:
 
@@ -156,4 +164,3 @@ Feature branches can be pushed to Github, but cannot be merge into master withou
    ```
    git pull
    ```
-
