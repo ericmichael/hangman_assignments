@@ -58,7 +58,7 @@ Our goal now is to take control of this project, bring it back to life, and make
 
 
 
-Starter Codebase: [Code](https://github.com/ericmichael/gameriot_hangman)
+Starter Codebase: [Github Classroom: Hangman Starter Code](https://classroom.github.com/a/zxoM3vy3)
 
 
 

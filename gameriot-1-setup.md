@@ -95,7 +95,7 @@ Feature branches can be pushed to Github, but cannot be merge into master withou
 
 **Setting up Github**
 
-1. Accept the Github Classroom assignment
+1. Accept the Github Classroom assignment. [https://classroom.github.com/a/zxoM3vy3](https://classroom.github.com/a/zxoM3vy3)
 
 2. Follow the directions in this video
 
