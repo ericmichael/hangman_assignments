@@ -7,7 +7,7 @@ This was a Blackboard assignment. Turn in your **hangmangame.dart** and your **h
 
 
 
-2. **Hangman Design **
+2. **Hangman Design**
 
 Submit a link to your Figma design on Blackboard.
 
