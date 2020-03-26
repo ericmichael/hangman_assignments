@@ -119,7 +119,7 @@ Feature branches can be pushed to Github, but cannot be merge into master withou
 
 Video Walkthrough: 
 
-[![Alt text](https://img.youtube.com/vi/u3x1GN0WJ7w/0.jpg)](https://www.youtube.com/watch?v=u3x1GN0WJ7w)
+[![Alt text](https://img.youtube.com/vi/tfnxW7bNL7k/0.jpg)](https://www.youtube.com/watch?v=tfnxW7bNL7k)
 
 Written steps:
 

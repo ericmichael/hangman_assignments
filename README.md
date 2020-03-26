@@ -1,19 +1,19 @@
 # The Old Hangman Assignments
 
-**1. Hangman TDD - Tests and Code**
+1. **Hangman TDD - Tests and Code**
 
 This was a Blackboard assignment. Turn in your **hangmangame.dart** and your **hangmangame_test.dart** on Blackboard.
 
 
 
 
-**2. Hangman Design **
+2. **Hangman Design **
 
 Submit a link to your Figma design on Blackboard.
 
 
 
-**3. Hangman Game - Practice**
+3. **Hangman Game - Practice**
 
 Create a working hangman game using your code from the TDD assignment and the starter code on Github. *This was just for practice and is not due.*
 
