@@ -91,6 +91,7 @@ Also this part seems weird:
 
 If it is invalid then it is valid? Maybe this variable is not named correctly or intuitively.
 
+**Clean up this code. Try to think of all the ways to simplify it while maintaining readability.**
 
 
 ## Step 5: Missings tests to check for invalid input (40 points)
