@@ -62,7 +62,25 @@ Starter Codebase: [Github Classroom: Hangman Starter Code](https://classroom.git
 
 
 
-## Assignment 1
+## Assignment 1: Setup CI/CD - Fix issues - due April 10
 
 Assignment 1 Details: [GameRiot 1: Setup Github / CI / CD](gameriot-1-setup.md)
+
+
+
+## Assignment 2: Clean Up - due April 15
+
+Assignment 2 Details: [GameRiot 2: Clean Up](gameriot-2-clean-up.md)
+
+
+
+## Assignment 3: Adding a New Feature - Code Review Practice
+
+*Not assigned yet.*
+
+
+
+## Assignment 4: UI Improvements
+
+*Not assigned yet.*
 
