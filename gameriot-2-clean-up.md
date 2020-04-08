@@ -124,13 +124,13 @@ Then write tests that make sure this behavior happens when given invalid input i
 5. Delete your remote feature branch.
 
    ```
-   git push origin --delete em-restore-working-version
+   git push origin --delete em-clean-up
    ```
 
 6. Delete your local feature branch.
 
    ```
-   git branch --delete em-restore-working-version
+   git branch --delete em-clean-up
    ```
 
 7. Pull the latest changes into your local master branch.
