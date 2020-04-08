@@ -93,7 +93,7 @@ If it is invalid then it is valid? Maybe this variable is not named correctly or
 
 
 
-## Step 5: Missings tests to check for invalid input (20 points)
+## Step 5: Missings tests to check for invalid input (40 points)
 
 Mr. Stark also noticed that the tests to check for invalid input are missing. Using the other tests as examples, add in the correct tests to make sure invalid input is not allowed.
 
