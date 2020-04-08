@@ -18,7 +18,7 @@ He doesn't care whose fault it is, he just wants continuous improvement.
 
 
 
-**Third thing: ** Mr. Stark noticed that there was not adequate test coverage. There are no integration tests that check for invalid input. 
+**Third thing:** Mr. Stark noticed that there was not adequate test coverage. There are no integration tests that check for invalid input. 
 
 
 
